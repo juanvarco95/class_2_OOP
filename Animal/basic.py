@@ -3,3 +3,13 @@ def greet(name: str) -> str:
     return f"Hello, {name}!"
 
 print(greet("Alice"))
+print(greet("Alice"))
+print(greet("Alice"))
+print(greet("Alice"))
+print(greet("Alice"))
+print(greet("Alice"))
+print(greet("Alice"))
+print(greet("Alice"))
+print(greet("Alice"))
+print(greet("Alice"))
+print(greet("Alice"))
